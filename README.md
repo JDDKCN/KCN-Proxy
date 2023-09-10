@@ -2,7 +2,7 @@
 
 ![Github](https://socialify.git.ci/JDDKCN/KCN-Proxy/image?description=1&forks=1&issues=1&language=1&logo=https%3A%2F%2Favatars.githubusercontent.com/u/103011451?v=4&name=1&owner=1&pulls=1&stargazers=1&theme=Light)
 
-> 一个代理工具。
+> 一个有效的私人服务器代理工具。
 
 ---
 
@@ -23,7 +23,6 @@
 ![APP_CN](Doc/image01.png)
 
 ### 更新日志
-
 - v0.1.0-Beta 2023/09/10
   1. 发布了程序。
 
@@ -41,7 +40,7 @@
 | Windows 7 - 8 | 支持   | Linux        | 不支持    |
 
 ### 免责声明
-- 本程序是基于Github项目[mitmproxy](https://github.com/mitmproxy/mitmproxy)制作的代理工具，使用A-GPLv3协议进行开源。项目仅供研究交流用，禁止用于商业及非法用途。使用本软件造成的事故与损失，与作者无关。本程序完全免费，如果您是花钱买的，说明您被骗了。请尽快退款，以减少您的损失。
+- 本程序是基于Github项目 [mitmproxy](https://github.com/mitmproxy/mitmproxy) 制作的代理工具，使用A-GPLv3协议进行开源。项目仅供研究交流用，禁止用于商业及非法用途。使用本软件造成的事故与损失，与作者无关。本程序完全免费，如果您是花钱买的，说明您被骗了。请尽快退款，以减少您的损失。
 
 ### 联系方式
 - [前往我的B站首页](https://space.bilibili.com/475547854/)
